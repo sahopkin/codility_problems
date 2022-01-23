@@ -10,4 +10,6 @@ This repository houses access to my solutions to Codility problems and exercises
 [Cyclic Rotation](https://app.codility.com/demo/results/trainingR777Q7-NZJ/)
 <br>
 [Odd Occurrences in Array](https://app.codility.com/demo/results/training8PXY49-5AQ/)
+<br>
+[Perm Missing Element](https://app.codility.com/demo/results/trainingJWYMCH-SXJ/)
 
