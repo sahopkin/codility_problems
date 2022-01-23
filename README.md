@@ -8,4 +8,6 @@ This repository houses access to my solutions to Codility problems and exercises
 [Binary Gap Exercise](https://app.codility.com/demo/results/training98XRA6-5JG/)
 <br>
 [Cyclic Rotation](https://app.codility.com/demo/results/trainingR777Q7-NZJ/)
+<br>
+[Odd Occurrences in Array](https://app.codility.com/demo/results/training8PXY49-5AQ/)
 
